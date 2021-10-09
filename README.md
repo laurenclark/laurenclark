@@ -1,6 +1,6 @@
 ### Hi there 👋 
 
-I'm a developer who specialises in JavaScript. I have over 8 years experience creating and optimising web UI's, apps and deliverables. I mainly work with __React__ and __Vue__, JAMstack, and headless software in the web.
+I'm a front-end focused developer who specialises in JavaScript. I have over 8 years experience creating and optimising web UI's, apps and deliverables. I mainly work with __React__ and __Vue__, JAMstack, and headless software in the web.
 
 
 __Things I've Worked On:__
