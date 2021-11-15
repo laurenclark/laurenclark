@@ -23,7 +23,7 @@ In remote-first autonomous teams where I can learn, and teach new things! I like
 
 __Hobbies:__
 
-I play 🎸 guitar, bass, mandolin and harmonica. I like to cook (mostly Mediterranean and Asian cuisine). I have a 🐈 and I like to take long walks along the beach where I live, as well as the woods and hills nearby. That's when I can get tear myself away from coding or playing PGA Tour on PS5. Currently I'm learning TypeScript and 日本語 🇯🇵 (Japanese is easier 🤯) When I grow up I want to write books and work 3 days a week.
+I play 🎸 guitar, bass, mandolin and harmonica. I like to cook (mostly Mediterranean and Asian cuisine). I have a 🐈 and I like to take long walks on the beach and in the woods. Thats only when I can get tear myself away from coding and video games 👻!. Currently I'm learning TypeScript and 日本語 🇯🇵 (Japanese is easier 🤯) When I grow up I want to write books and work 3 days a week.
 
 __Likes:__
 
@@ -46,3 +46,8 @@ __Dislikes:__
 - Censorship and cult thinking
 - Insecurity manifesting in egos, nitpicking and micromanagement 😡
 - Zippy from Rainbow
+
+
+![Lauren's GitHub stats](https://github-readme-stats.vercel.app/api?username=laurenclark&theme=radical&show_icons=true)
+
+
